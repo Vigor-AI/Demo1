@@ -1,7 +1,7 @@
 ## 萧峰：只愿你生入雁门关
-
-![img]('./asser/1.jpg')
 *转载自* **六神磊磊读金庸**
+
+![img](https://raw.githubusercontent.com/Vigor-AI/Demo1/master/assets/1.jpg)
 
 ### 一
 那一天，站在长城的脚下，在雁门关前，萧峰有点恍惚。
@@ -28,7 +28,7 @@
 那一刻，他有一点点晕，像是喝醉了酒的感觉。他很想找人问几个问题。
 
 ### 二
-![img]('/asset/2.jpg')
+![img](https://raw.githubusercontent.com/Vigor-AI/Demo1/master/assets/2.jpg)
 
 第一个问题，想问自己出家了的老爸。
 
@@ -64,7 +64,7 @@
 既然已经开战了，他固然懊恼，却也不至于有多想不开，“除了长叹一声、痛饮十碗之外，也就不去多想了。”
 
 他不会时时刻刻忧国忧民。对这个世界，他其实已经没什么牵挂。阿朱死后，他的生命就死了一半了。在她死的那一晚，他在她身边挖过一个“契丹莽夫萧峰之墓”，其实就已经把自己给埋了。
-![img]('/asset/3.jpg')
+![img](https://raw.githubusercontent.com/Vigor-AI/Demo1/master/assets/3.jpg)
 
 如果不是看守不小心，如果不是群雄组团把他救了出来，这一天他仍然是在铁笼子里喝酒，根本不会来到雁门关，不会挺立在长城之下，万众之前。
 谁说英雄不会放弃，不会打退堂鼓。
