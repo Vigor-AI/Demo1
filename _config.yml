@@ -6,8 +6,6 @@ description: 展示公司特色，宣传个人爱好
 
 title: 会画了深度科技公司
 
-show_downloads： True
-
 github:
   owner_name: Vigor-AI
   is_project_page：True
