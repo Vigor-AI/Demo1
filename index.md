@@ -1,6 +1,6 @@
 ## 萧峰：只愿你生入雁门关
 
-![img]('https://raw.githubusercontent.com/Vigor-AI/Demo1/master/assets/1.jpg')
+![img]({{ site.url }}/assets/1.jpg)
 *转载自* **六神磊磊读金庸**
 
 ### 一
