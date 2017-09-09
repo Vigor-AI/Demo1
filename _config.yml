@@ -4,7 +4,9 @@ lang: utf-8
 
 description: 展示公司特色，宣传个人爱好
 
-title: 会画了科技公司
+title: Vigor-Ai
 
 github:
   owner_name: Vigor-AI
+
+show_downloads: true
